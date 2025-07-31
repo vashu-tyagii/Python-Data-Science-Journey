@@ -1,0 +1,31 @@
+# requirements.txt
+# This file lists the Python packages required for the projects and examples
+# in this repository.
+
+# By default, this file will install the latest compatible versions
+# of the specified packages.
+
+# Core Python libraries for data science and machine learning
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning frameworks
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# General utility
+ipython # For interactive sessions
+jupyter # For Jupyter notebooks
+
+# To install these requirements, navigate to your project directory
+# in the terminal and run:
+# pip install -r requirements.txt
+
+# To update already installed packages to their latest versions, you can run:
+# pip install --upgrade -r requirements.txt
