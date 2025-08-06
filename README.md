@@ -18,10 +18,19 @@ The project is organized into logical modules, covering the essential skills req
 
 ### **1. Python Fundamentals Core Concepts**
 
-- **01-Basics**: Essential syntax, data types, control flow, and functions.
-- **02-Intermediate**: File handling, error handling, modules, and more.
-- **03-OOP**: Object-Oriented Programming principles.
-- **04-Advanced**: Advanced Python features, generators, and decorators.
+- **Python Basics**: An introduction to Python's fundamental syntax, data types (numbers, strings, booleans), variables, operators, and control flow (if/else, for loops, while loops).
+
+- **Python Functions**: Learn how to define and use functions to organize and reuse code. Topics include function arguments, return values, and scope.
+
+- **Python Data Structures**: A deep dive into Python's built-in data structures: lists, tuples, sets, and dictionaries. Learn their characteristics and how to use them effectively.
+
+- **Python OOPs Concepts**: An introduction to Object-Oriented Programming (OOP) in Python. This section covers classes, objects, methods, attributes, and key OOP principles like inheritance and polymorphism.
+
+- **Python Exception Handling**: Learn how to write robust code by handling errors gracefully using try, except, else, and finally blocks.
+
+- **File Handling**: Understand how to interact with files on your system. This includes reading from, writing to, and managing text and binary files.
+
+- **Python Database Handling**: An introduction to connecting to and interacting with databases from Python. This typically covers using libraries like sqlite3 for basic database operations.
 
 ### **2. Data Manipulation & Analysis**
 
