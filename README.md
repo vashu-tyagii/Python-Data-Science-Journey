@@ -61,7 +61,7 @@ To explore and run the code in this repository, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/vashu-tyagi-official/Python-Data-Science-Journey.git](https://github.com/vashu-tyagi-official/Python-Data-Science-Journey.git)
+    git clone [https://github.com/vashu-tyagi-official/Python-Data-Science-Journey.git](https://github.com/vashu-tyagii/Python-Data-Science-Journey.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
