@@ -93,7 +93,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Connect with Me
 
-- **GitHub:** [Vashu-Tyagi-Official](https://github.com/vashu-tyagi-official)
-- **Instagram:** [vashu_tyagi_official](https://www.instagram.com/vashu_tyagi_official/)
+- **GitHub:** [Vashu-Tyagi](https://github.com/vashu-tyagii)
+- **Instagram:** [VAshu Tyagi](https://www.instagram.com/vashu_tyagii/)
 
 Happy coding!
