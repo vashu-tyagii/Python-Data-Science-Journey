@@ -117,6 +117,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Connect with Me
 
 - **GitHub:** [Vashu-Tyagi](https://github.com/vashu-tyagii)
-- **Instagram:** [VAshu Tyagi](https://www.instagram.com/vashu_tyagii/)
+- **Instagram:** [Vashu Tyagi](https://www.instagram.com/vashu_tyagii/)
 
 Happy coding!
