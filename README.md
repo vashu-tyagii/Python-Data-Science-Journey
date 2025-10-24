@@ -57,21 +57,44 @@ The project is organized into logical modules, covering the essential skills req
 
 ## Getting Started
 
-To explore and run the code in this repository, follow these steps:
+To explore and run the code in this repository, you **must** ensure a clean, reproducible environment. This project was developed and tested against **Python 3.11.9**.
 
-1.  **Clone the repository:**
+### **Mandatory Setup Steps**
+
+1.  **Check Python Version:**
+    The required version is specified in the **`.python-version`** file. If you use a version manager like `pyenv`, it will automatically select the correct interpreter when you navigate to this directory. If not, ensure you install **Python 3.11.9** first.
+
+2.  **Clone the repository:**
     ```bash
     git clone [https://github.com/vashu-tyagii/Python-Data-Science-Journey.git](https://github.com/vashu-tyagii/Python-Data-Science-Journey.git)
     ```
-2.  **Navigate to the project directory:**
+3.  **Navigate to the project directory:**
     ```bash
     cd Python-Data-Science-Journey
     ```
-3.  **Install dependencies:**
+4.  **Create and Activate a Virtual Environment (`venv`):**
+    **Do not** use your global Python installation. This step isolates project dependencies.
+    ```bash
+    # 4a. Create the virtual environment using the correct Python version
+    python -m venv venv
+
+    # 4b. Activate the environment (Command varies by OS/Shell)
+    # On Windows (PowerShell):
+    .\venv\Scripts\Activate.ps1
+    # On macOS/Linux (Bash/Zsh):
+    source venv/bin/activate
+    ```
+5.  **Install Dependencies from `requirements.txt`:**
+    The `requirements.txt` file contains the exact, pinned package versions. This is the only way to guarantee the code runs as intended.
     ```bash
     pip install -r requirements.txt
     ```
-4.  Explore the directories and run the Python scripts or Jupyter Notebooks to see the implementations in action.
+6.  **Environment Verification (Recommended):**
+    Confirm that the correct packages are installed within the virtual environment:
+    ```bash
+    pip list
+    ```
+7.  Explore the directories and run the Python scripts to see the implementations in action.
 
 ---
 
